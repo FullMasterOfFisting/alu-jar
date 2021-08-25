@@ -1079,7 +1079,9 @@ main {
   width: 100%;
   min-height: 100vh;
 }
-
+.fullscreen__wrapper {
+  min-height: 100vh;
+}
 .slide-fullscreen {
   display: -webkit-box;
   display: -ms-flexbox;
